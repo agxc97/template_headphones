@@ -1,5 +1,7 @@
-🌟 Headphones Template 🌟
-🚀 Deployed on:
-https://agxc-arquinatura-demo.netlify.app/
+# 🌟 Headphones Template 🌟
 
-💻 Technologies Used:
+## 🚀 Deployed on: 
+https://agxc-music-demo.netlify.app/
+
+## 💻 Technologies Used:
+ 
